@@ -33,6 +33,7 @@ C:\VScode\Proyecto\portfolio-BackEnd\src\main\java\com\portfolio\ulr\Security\Dt
 C:\VScode\Proyecto\portfolio-BackEnd\src\main\java\com\portfolio\ulr\Security\jwt\JwtEntryPoint.java
 C:\VScode\Proyecto\portfolio-BackEnd\src\main\java\com\portfolio\ulr\Repository\IPersonaRepository.java
 C:\VScode\Proyecto\portfolio-BackEnd\src\main\java\com\portfolio\ulr\Repository\REducacion.java
+C:\VScode\Proyecto\portfolio-BackEnd\src\main\java\com\portfolio\ulr\Interface\IPersonaService.java
 C:\VScode\Proyecto\portfolio-BackEnd\src\main\java\com\portfolio\ulr\Security\Service\RolService.java
 C:\VScode\Proyecto\portfolio-BackEnd\src\main\java\com\portfolio\ulr\Controller\CEducacion.java
 C:\VScode\Proyecto\portfolio-BackEnd\src\main\java\com\portfolio\ulr\Controller\CExperiencia.java

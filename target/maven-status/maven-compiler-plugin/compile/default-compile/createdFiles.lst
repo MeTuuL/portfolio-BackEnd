@@ -20,6 +20,7 @@ com\portfolio\ulr\Dto\dtoExperiencia.class
 com\portfolio\ulr\Entity\HyS.class
 com\portfolio\ulr\Repository\IPersonaRepository.class
 com\portfolio\ulr\Security\Entity\Usuario.class
+com\portfolio\ulr\Interface\IPersonaService.class
 com\portfolio\ulr\Security\jwt\JwtTokenFilter.class
 com\portfolio\ulr\Dto\dtoPersona.class
 com\portfolio\ulr\Service\SEducacion.class
